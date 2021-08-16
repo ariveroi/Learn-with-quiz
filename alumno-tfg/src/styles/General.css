@@ -1,0 +1,97 @@
+.sub-row{
+    border-bottom: 1px solid grey;
+    padding-bottom: 20px 
+}
+
+.link{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid black;
+    height: 100px;
+    border-radius: 25px;
+    font-size: 23px;
+    font-weight: 700;
+}
+.link:hover{
+    text-decoration: none;
+}
+
+/* #link1{
+    background-color: yellow !important;
+}
+#link2{
+    background: red;
+}
+
+#link3{
+    background: green;
+} */
+
+.sub-link{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid black;
+    height: 40px
+}
+.sub-link:hover{
+    text-decoration: none
+}
+
+.standar-form{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    padding: 30px;
+    border: 1px solid grey;
+    border-radius: 20px
+}
+
+#play-header-view{
+    padding: 30px;
+    border-bottom: 1px solid grey;
+}
+
+.respuestas{
+    border-radius: 10px;
+    margin-top: 30px;
+}
+#respuesta-0{
+    background-color: blue
+}
+#respuesta-1{
+    background-color: yellow
+}
+#respuesta-2{
+    background-color: red
+}
+#respuesta-3{
+    background-color: green
+}
+
+#podium0, #podium1, #podium2 {
+    width: 150px;
+    background: gray;
+    text-align: center;
+    font-size: 30px;
+    color: white;
+}
+#podium0 { /* gold */
+    height: 150px;
+}
+#podium1 { /* silver */
+    height: 100px;
+}
+#podium2 { /* bronze */
+    height: 50px;
+}
+.podium-td{
+    vertical-align: bottom !important
+}
+
+img{
+    height: 50px
+}
+.admin-navbar{
+    /* margin: 20px */
+}

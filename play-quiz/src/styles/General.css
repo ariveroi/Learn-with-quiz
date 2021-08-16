@@ -1,0 +1,32 @@
+.respuestas{
+    border-radius: 10px;
+    margin-top: 30px;
+}
+#respuesta-0{
+    background-color: blue
+}
+#respuesta-1{
+    background-color: yellow
+}
+#respuesta-2{
+    background-color: red
+}
+#respuesta-3{
+    background-color: green
+}
+
+img{
+    height: 50px
+}
+
+#error{
+    color:red
+}
+
+.standar-form{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    padding: 30px;
+    border: 1px solid grey;
+    border-radius: 20px
+}

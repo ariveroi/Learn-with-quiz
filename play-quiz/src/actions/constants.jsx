@@ -1,0 +1,4 @@
+export const CHECK_QUIZ_TRUE = 'CHECK_QUIZ_TRUE'
+export const CHECK_QUIZ_FALSE = 'CHECK_QUIZ_FALSE'
+export const QUIZ_STARTED = 'QUIZ_STARTED'
+export const JOIN_QUIZ = 'JOIN_QUIZ'
